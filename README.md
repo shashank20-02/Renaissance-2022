@@ -8,5 +8,5 @@ CONTRIBUTERS -
 - 4. SHASHANK SHARMA()
 
 LINKS -
-- 1. REPOSITORY LINK(https://github.com/shashank20-02/Renaissance-2022)
-- 2.LIVE WEBSITE LINK - (https://extraordinary-bubblegum-02c863.netlify.app/)
+- REPOSITORY LINK(https://github.com/shashank20-02/Renaissance-2022)
+- LIVE WEBSITE LINK - (https://extraordinary-bubblegum-02c863.netlify.app/)
