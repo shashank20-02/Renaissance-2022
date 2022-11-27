@@ -7,5 +7,6 @@ CONTRIBUTERS -
 - 3. SUBRAT SHUKLA()
 - 4. SHASHANK SHARMA()
 
--REPOSITORY LINK - (https://github.com/shashank20-02/Renaissance-2022.git)
--LIVE WEBSITE LINK - (https://extraordinary-bubblegum-02c863.netlify.app/)
+LINKS -
+- 1. REPOSITORY LINK(https://github.com/shashank20-02/Renaissance-2022)
+- 2.LIVE WEBSITE LINK - (https://extraordinary-bubblegum-02c863.netlify.app/)
